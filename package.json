@@ -1,0 +1,24 @@
+{
+  "name": "gauss-seidel-method",
+  "version": "1.0.0",
+  "description": "Gauss-Seidel method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrat98/Gauss-Seidel-method.git"
+  },
+  "author": "scrat98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scrat98/Gauss-Seidel-method/issues"
+  },
+  "homepage": "https://github.com/scrat98/Gauss-Seidel-method#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.1",
+    "mathjs": "^4.0.1"
+  }
+}
