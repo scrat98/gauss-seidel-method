@@ -5,4 +5,4 @@
 ### Головко Артем М3209 <br> Вариант 7
 
 ![screen](screen.jpg)
-code here - https://github.com/scrat98/newton-method)
+code here - https://github.com/scrat98/newton-method
