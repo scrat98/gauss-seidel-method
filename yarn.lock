@@ -36,6 +36,10 @@ javascript-natural-sort@0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/javascript-natural-sort/-/javascript-natural-sort-0.7.1.tgz#f9e2303d4507f6d74355a73664d1440fb5a0ef59"
 
+lodash@^4.17.5:
+  version "4.17.5"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+
 mathjs@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/mathjs/-/mathjs-4.0.1.tgz#d2a8de08df5521231eb8e7e122e0890e618f8f8d"
